@@ -1,5 +1,5 @@
 #=================================================================================================
-# Copyright (C) 2022 by StdKing@Github, < https://github.com/StdKing >.
+# Copyright (C) 2022 by TEAM-STD@Github, < https://github.com/TEAM-STD >.
 # Released under the "GNU v3.0 License Agreement".
 # All rights reserved.
 #=================================================================================================
